@@ -1,0 +1,24 @@
+.elementor-205 .elementor-element.elementor-element-970eb0a > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-205 .elementor-element.elementor-element-970eb0a:not(.elementor-motion-effects-element-type-background), .elementor-205 .elementor-element.elementor-element-970eb0a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#DD1B1B00;}.elementor-205 .elementor-element.elementor-element-970eb0a{border-style:solid;border-width:3px 0px 0px 0px;border-color:var( --e-global-color-secondary );transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:-200px;padding:0px 0px 0px 0px;z-index:999;}.elementor-205 .elementor-element.elementor-element-970eb0a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-205 .elementor-element.elementor-element-d98403c img{width:50%;filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.elementor-205 .elementor-element.elementor-element-d98403c{z-index:1;}.elementor-205 .elementor-element.elementor-element-060357a .elementor-menu-toggle{margin:0 auto;background-color:#FFFFFF2E;}.elementor-205 .elementor-element.elementor-element-060357a .elementor-nav-menu .elementor-item{font-family:"Raleway", Sans-serif;font-size:17px;font-weight:600;text-transform:uppercase;}.elementor-205 .elementor-element.elementor-element-060357a .elementor-nav-menu--main .elementor-item{color:#FFFFFF;fill:#FFFFFF;}.elementor-205 .elementor-element.elementor-element-060357a .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-205 .elementor-element.elementor-element-060357a .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-205 .elementor-element.elementor-element-060357a .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-205 .elementor-element.elementor-element-060357a .elementor-nav-menu--main .elementor-item:focus{color:#EC8C08;fill:#EC8C08;}.elementor-205 .elementor-element.elementor-element-060357a .elementor-nav-menu--main .elementor-item.elementor-item-active{color:var( --e-global-color-secondary );}.elementor-205 .elementor-element.elementor-element-060357a div.elementor-menu-toggle{color:#FFFFFF;}.elementor-205 .elementor-element.elementor-element-060357a div.elementor-menu-toggle svg{fill:#FFFFFF;}.elementor-205 .elementor-element.elementor-element-060357a{z-index:999;}@media(max-width:767px){.elementor-205 .elementor-element.elementor-element-30ed327{width:50%;}.elementor-205 .elementor-element.elementor-element-d98403c img{width:60%;}.elementor-205 .elementor-element.elementor-element-e6f923d{width:50%;}}@media(min-width:768px){.elementor-205 .elementor-element.elementor-element-30ed327{width:15.351%;}.elementor-205 .elementor-element.elementor-element-e6f923d{width:84.649%;}}/* Start custom CSS for section, class: .elementor-element-970eb0a */div#top-bar-wrap {
+display: none!important;
+}
+
+#header.elementor-sticky--effects {
+background-color: #fff;
+transition: all .5s ease;
+box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
+#header.elementor-sticky--effects .logo img {
+content:url('../../2022/10/Logo-MR.png') !important;
+width: 40%;
+
+}
+
+#header.elementor-sticky--effects .roblox li a {
+color: #ec8c08!important;
+}/* End custom CSS */
